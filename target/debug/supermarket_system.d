@@ -1,1 +1,0 @@
-/Users/tech/rust_beginner/supermarket_system/target/debug/supermarket_system: /Users/tech/rust_beginner/supermarket_system/src/main.rs /Users/tech/rust_beginner/supermarket_system/src/order.rs /Users/tech/rust_beginner/supermarket_system/src/product.rs /Users/tech/rust_beginner/supermarket_system/src/utils.rs
